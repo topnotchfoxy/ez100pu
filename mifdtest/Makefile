@@ -2,7 +2,7 @@
 
 CC      = cc
 CFLAGS  = -g -w
-INCLUDE = -I/usr/include/PCSC
+INCLUDE = -I/usr/local/include
 LIBS    = -L/lib -lpcsclite -lpthread
 OBJS = mifdtest.o
 

@@ -4,7 +4,7 @@ CC      = cc
 CFLAGS  = -g -w
 #INCLUDE = -I/usr/local/include
 INCLUDE = -I/usr/include/PCSC
-LIBS    = -L/usr/local/lib -lpcsclite -lpthread
+LIBS    = -L/lib64 -lpthread /usr/lib64/libpcsclite.so.1
 OBJS = mifdtest.o
 
 

@@ -139,7 +139,7 @@ long
 MySCardGetStatusChange(
 	SCARDCONTEXT hContext,
     DWORD dwTimeout,
-    LPSCARD_READERSTATE rgReaderStates,
+    LPSCARD_READERSTATE_A rgReaderStates,
     DWORD cReaders)
 {
 	long result;

@@ -1,6 +1,6 @@
 Contents -
 
-	driver_ezusb_v1.5.3(for 64-bit) - Contains driver (version 1.5.3(for 64-bit)) for EZ100PU/EZMINI
+	driver_ezusb_v1.5.6(for 64-bit) - Contains driver (version 1.5.6(for 64-bit)) for EZ100PU/EZMINI
 			:
                            check_env - Environment Check Script  
                            install - Install Script
